@@ -1,3 +1,6 @@
+cognitoのユーザープールは「amplifyauthfa32cc54_userpool_fa32cc54-dev」です！
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
