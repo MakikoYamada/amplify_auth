@@ -1,5 +1,8 @@
 cognitoのユーザープールは「amplifyauthfa32cc54_userpool_fa32cc54-dev」です！
 
+参考
+https://docs.amplify.aws/lib/auth/emailpassword/q/platform/js/#confirm-sign-up
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
